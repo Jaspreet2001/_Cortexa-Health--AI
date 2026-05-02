@@ -34,7 +34,7 @@
 
 **Cortexa Health** is a full-stack clinical intelligence platform that brings the power of **LLaMA 4 Vision AI** directly into a hospital workflow. Designed for doctors, radiologists, and clinical administrators, it enables multi-modal medical image analysis, real-time AI consultation, drug interaction safety checks, and HIPAA-ready audit logging — all through a polished, role-based web interface.
 
-Built with ❤️ by **Jaspreet Singh Jawanda**, Ludhiana, Punjab, India.
+Built with ❤️ by **Jaspreet Kaur** India.
 
 ---
 
@@ -431,7 +431,7 @@ MIT License — see `LICENSE` for details.
 
 **Built with passion for better clinical care**
 
-*Cortexa Health v5.0.0 · Jaspreet Singh Jawanda · Ludhiana, Punjab, India*
+*Cortexa Health v5.0.0 · Jaspreet Kaur · , India*
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![LLaMA 4 Vision](https://img.shields.io/badge/Model-LLaMA%204%20Vision-7c3aed?style=flat-square)](https://ai.meta.com)
