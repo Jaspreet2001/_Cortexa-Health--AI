@@ -3,17 +3,17 @@
 
 [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/09114534-6f4d-4279-9604-59e1c4a56d01)
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://img.shields.io/badge/Version-5.0.0-2563eb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_Powered-LLaMA_4_Vision-7c3aed?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Built_with-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Inference-Ultra--Fast_LPU-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Inference-Ultra--Fast_LPU-059669?style=for-the-badge" /> -->
 
 <br/><br/>
 
-# 🏥 Cortexa Health v5.0
-### *Ultimate Clinical Intelligence Platform*
+# 🏥 Cortexa Health
+### *Ultimate Clinical Intelligence Platform (CV+GenAI)*
 
 > **AI-powered radiology, patient management, drug safety, and clinical decision support — all in one beautifully designed platform.**
 
